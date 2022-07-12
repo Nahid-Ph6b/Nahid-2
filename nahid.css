@@ -1,7 +1,7 @@
 body{font-family: 'Poppins', sans-serif;
 margin: 0px;}
 
-section{display:flex;}
+.flexible-container{display:flex;}
 
 .half-width{width: 50%;
  padding-left: 2%;}
@@ -24,7 +24,7 @@ padding: 10px 40px ;}
 
 
 
-section{display: flex;}
+.flexible-container{display: flex;}
 
 .half-width img{width: 70%;}
 
@@ -44,3 +44,23 @@ color: honeydew;}
 .dream-big{background-image: url(Nimage3/dream-bg.png);
 background-repeat:no-repeat ;
 background-position: right;}
+
+.experience-item{width: 50%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 5%;
+padding-right: 5% ;
+box-shadow: 10px 20px 40px  blue;}
+
+.Blue-color{color: blue;}
+.experience-area{background-image: url(Nimage3/exp-bg.png);
+background-repeat:no-repeat ;
+background-position:left ;}
+
+#babyd{border-left: 10px solid crimson;
+border-right:7px solid fuchsia ;}
+#fullsd{border-right:7px solid royalblue ;
+border-left:7px solid chocolate ;}
+
+footer p{text-align:center ;
+text-decoration-color:red ;}
