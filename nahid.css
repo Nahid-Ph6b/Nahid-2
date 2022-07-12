@@ -1,0 +1,26 @@
+body{font-family: 'Poppins', sans-serif;
+margin: 0px;}
+
+section{display:flex;}
+
+.half-width{width: 50%;
+ padding-left: 2%;}
+
+.half-width img{width: 70%;}
+
+.topbanner{background-image: url(Nimage3/top-banner.png);
+background-repeat: no-repeat;
+margin-left:0 ;}
+
+h1{color: crimson;
+font-size: 50px;}
+snap{color:black}
+
+.linkbutton{background-color: chocolate;
+text-decoration: none;
+border-radius: 5px;
+color: chartreuse;
+padding: 10px 40px ;}
+
+
+
