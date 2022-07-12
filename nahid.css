@@ -16,11 +16,27 @@ h1{color: crimson;
 font-size: 50px;}
 snap{color:black}
 
-.linkbutton{background-color: chocolate;
+.linkbutton{background-color:blueviolet;
 text-decoration: none;
 border-radius: 5px;
 color: chartreuse;
 padding: 10px 40px ;}
 
 
+
+section{display: flex;}
+
+.half-width img{width: 70%;}
+
+.half-width{width: 50%;
+padding: 2%;
+margin-top: 20px;
+margin-bottom:20px ;}
+
+
+.insbutton{text-decoration: none;
+background-color: coral;
+padding-left: 10px 40px ;
+border-radius:5px;
+color: honeydew;}
 
